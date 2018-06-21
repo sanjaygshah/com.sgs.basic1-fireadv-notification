@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\eedb069c970dae7e86042907d24e073b268f0889\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d39b271438eb54d7342940044f46a6b1fa75d69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\eedb069c970dae7e86042907d24e073b268f0889\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0c135a354de405c77d6bfd3210aee1108b5ed36a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\68276dfe0cbc3f0a67f878fd4883c7daae7e9f7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2477ae71ddd28db68c8cc72b0d8b82dcb9147df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\1e928e6503db6bb11c13bb6d1afbc666c9c99e42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcabeb8f5a3060eb7b58437d34a81029868b2f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\5c45400b6e3d75ba1d0fba1dcf74e8f7e7d5d43e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7b720d9330d2604f78204fd615620dc881a14a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\5f49170d61d859700717251c3e56259c1cb840fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe36a617bf0b70fbf6adf5e2345a47ebc0303435\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\fc642a23dcfc69e850db3ba2dd51277c37b19daf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2faf85f9cae0fffff5de650518bce03bb2d9918\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\b21f3e3c6fc0b25801abdd33ea7c8fef69a044ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f08409b64d3c9da12c44817d2c7d4171baf0b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d51e448331d19433aff6ac985208ef9578220d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\a690d39056d0280b5d933a77158b12da9e0dd9c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eee8821cf753d702b18a1ffd4adcfec45193f3a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\c7c3b5252e05f2815837a2df80f5b35484ec1ae1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44bccea4a3507f3a3fcb0089ed9a68b4d59ccb88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05b05a6d6d623c13291f428f470d0670af7f4ce4">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_389d162ce4bed9c82a7249cdc67999ac98a7bb3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\5674565cf2fddb6f2423e15faa1fd640fd25da52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3b53c335c7ab79a0d7a0bc84cf840b6801a772b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studio\com.sgs.basic1-fireadv+notification\app\libs\commons-net-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-3.0.1_d36121b3bb4b254370c9b5491183bf740da373f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\4391f3e660fb331ddd225b70a5a311f6b6285701\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d918834c8e213993e791e5405531f452b54d29cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\8ee5c612405a3a7da83643fbadce523c85abb9a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c18955e2a4fe7949ca7142a1a2caa40c10d2123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\d254f8b413245555e035da1d1242fc5a3fb8ddfe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d597183c8b08aac0e1ec7eaf9fce83df4d799376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\36084c7f2bdff4421bf4d9dbcbf8efa20b40e2b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da25495814b8f33f3c1657e615ea1fdd0cc00219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_26fe543b827aecb9ffccf650cc5e5227b1430c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\riya\.android\build-cache\85ec8bed051eb2af1afe5de8d1a4e0b1d2e7f3fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="E:\studio\com.sgs.basic1-fireadv+notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4479c2512f6b02e0e30f26e78bfa3a9432bf8a82\classes.dex" />
+    </item>
+
+</items>

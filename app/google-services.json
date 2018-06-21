@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764772200310",
+    "firebase_url": "https://comsgsbasic.firebaseio.com",
+    "project_id": "comsgsbasic",
+    "storage_bucket": "comsgsbasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764772200310:android:ba04a26fba2b2ce1",
+        "android_client_info": {
+          "package_name": "com.sgs.basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764772200310-ebbb492rpa1b77igo6c22ck5b5g6613b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sgs.basic",
+            "certificate_hash": "D9D5EDC588CCDFF3D8A4C161FAFFC3530D3D8181"
+          }
+        },
+        {
+          "client_id": "764772200310-1vmhh1ci9525k29irl3lvbtn8hap39mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgLSRfSoC9VK8V8m-enoMY8sraChOGoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764772200310-1vmhh1ci9525k29irl3lvbtn8hap39mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

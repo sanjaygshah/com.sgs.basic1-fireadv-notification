@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\riya\\.android\\build-cache\\5f49170d61d859700717251c3e56259c1cb840fb\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\riya\\.android\\build-cache\\5f49170d61d859700717251c3e56259c1cb840fb\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\riya\\.android\\build-cache\\5f49170d61d859700717251c3e56259c1cb840fb\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\riya\\.android\\build-cache\\5f49170d61d859700717251c3e56259c1cb840fb\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blank.png",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\drawable\\blank.png"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\drawable\\splash.png"
+    }
+]

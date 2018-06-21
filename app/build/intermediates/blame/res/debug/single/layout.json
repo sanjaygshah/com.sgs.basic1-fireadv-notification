@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_layout_s.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\simple_list_layout_s.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editor.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\editor.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_layout_1.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\simple_list_layout_1.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\web.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\web.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_layout_m.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\simple_list_layout_m.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\console.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_layout.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\simple_list_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_input.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\text_input.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tget.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\tget.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\debug_list_layout.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\debug_list_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\debug_list_s_layout.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\debug_list_s_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\debug_dialog_layout.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\debug_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_layout_l.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\simple_list_layout_l.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_sc_parms.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\get_sc_parms.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera.xml",
+        "source": "E:\\studio\\com.sgs.basic1-fireadv+notification\\app\\src\\main\\res\\layout\\camera.xml"
+    }
+]
